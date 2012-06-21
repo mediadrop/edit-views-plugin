@@ -1,0 +1,3 @@
+[mediacore.plugin]
+editviews = mediacore_editviews
+

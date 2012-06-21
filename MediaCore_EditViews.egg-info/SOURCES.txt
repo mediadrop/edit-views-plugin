@@ -1,0 +1,12 @@
+LICENSE.txt
+MANIFEST.in
+setup.cfg
+setup.py
+MediaCore_EditViews.egg-info/PKG-INFO
+MediaCore_EditViews.egg-info/SOURCES.txt
+MediaCore_EditViews.egg-info/dependency_links.txt
+MediaCore_EditViews.egg-info/entry_points.txt
+MediaCore_EditViews.egg-info/requires.txt
+MediaCore_EditViews.egg-info/top_level.txt
+mediacore_editviews/__init__.py
+mediacore_editviews/i18n/mediacore_editviews.pot
